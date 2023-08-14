@@ -1,5 +1,5 @@
 # Dance Dance Arduino
-![Image](https://upload.wikimedia.org/wikipedia/en/7/71/DDR_A_Logo.png)
+![DDR A](https://upload.wikimedia.org/wikipedia/en/7/71/DDR_A_Logo.png)
  
 
 ## Description
@@ -19,4 +19,4 @@ Dance Dance Arduino is an implementation of the famous rhythm game Dance Dance R
 * Arduino Starter Pack Buttons, Resistors, Jumpers Wires
 
 ## Wiring Diagram
-![Image](https://lh3.googleusercontent.com/keep-bbsk/AAAetVK1xE3Wg-jtXXwm_SIpcFd0VA0sWto_X35hp9z1SAoAeEjDCoPtAVoE7vH5KXRMOQtQqjxux_u6Wts4i6jvyI5smhAl53RIIhXWrBKdzXjdbyoL=s512)
+![DDR Arduino Wiring Diagram](https://github.com/jtrieu48/DDRArduino/assets/77050179/3e45814b-99e8-4aa2-afaf-a5d7503006ce)
