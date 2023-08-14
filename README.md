@@ -1,6 +1,6 @@
+# Dance Dance Arduino
 ![Image](https://upload.wikimedia.org/wikipedia/en/7/71/DDR_A_Logo.png)
  
- # Dance Dance Arduino
 
 ## Description
 Dance Dance Arduino is an implementation of the famous rhythm game Dance Dance Revolution, where players press corresponding arrow keys to the beat of the music. All the thrills of DDR can be enjoyed through the compact set of the ELEGOO UNO Project Starter Kit, an 8x8 Matrix LED, and an Arduino Speaker. 
@@ -19,4 +19,4 @@ Dance Dance Arduino is an implementation of the famous rhythm game Dance Dance R
 * Arduino Starter Pack Buttons, Resistors, Jumpers Wires
 
 ## Wiring Diagram
-![Image]([C:\Users\ididn\OneDrive\Pictures\DDR Arduino Wiring Diagram.png)](https://lh3.googleusercontent.com/keep-bbsk/AAAetVJJTO9sX4gzT46KHofOmDKz0HxszizehubBfCzoJBLHWi0N2Z9LU0_wqRjf0NH7vcsfUjSqzqYPBeHtve4UTpASUXzCwmF3sCXVdc8RzwnGIrWF=s512)https://lh3.googleusercontent.com/keep-bbsk/AAAetVJJTO9sX4gzT46KHofOmDKz0HxszizehubBfCzoJBLHWi0N2Z9LU0_wqRjf0NH7vcsfUjSqzqYPBeHtve4UTpASUXzCwmF3sCXVdc8RzwnGIrWF=s512)
+![Image](https://lh3.googleusercontent.com/keep-bbsk/AAAetVK1xE3Wg-jtXXwm_SIpcFd0VA0sWto_X35hp9z1SAoAeEjDCoPtAVoE7vH5KXRMOQtQqjxux_u6Wts4i6jvyI5smhAl53RIIhXWrBKdzXjdbyoL=s512)
