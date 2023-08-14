@@ -22,4 +22,4 @@ Dance Dance Arduino is an implementation of the famous rhythm game Dance Dance R
 ![DDR Arduino Wiring Diagram](https://github.com/jtrieu48/DDRArduino/assets/77050179/3e45814b-99e8-4aa2-afaf-a5d7503006ce)
 
 ## Gameplay Demo
-[![Youtube Thumbnail](https://youtu.be/oGBtcMmGAPs)](https://youtu.be/oGBtcMmGAPs "DDR Arduino Youtube")
+[![Youtube Thumbnail](https://imgur.com/xkVfYbP)](https://youtu.be/oGBtcMmGAPs "DDR Arduino Youtube")
