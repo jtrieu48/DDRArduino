@@ -1,4 +1,4 @@
-![Image]([https://eu-images.contentstack.com/v3/assets/blt781c383a1983f673/blt613f33d4489c2301/621c9ee0785f5a3eb7c47cb1/Dance_20Dance_20Revolution.png?width=734&auto=webp&format=png](https://static.wikia.nocookie.net/dancedancerevolutionddr/images/3/34/DDR2009Logo.png/revision/latest?cb=20130508042349))
+![Image](https://upload.wikimedia.org/wikipedia/en/7/71/DDR_A_Logo.png)
  
  # Dance Dance Arduino
 
