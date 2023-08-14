@@ -10,3 +10,13 @@ Dance Dance Arduino is an implementation of the famous rhythm game Dance Dance R
 * Press the corresponding button when the arrow reaches the top of the LED
 * You have 3 lives, miss three notes and its game over!
 * Your score is recorded and displayed on the Arduino LCD
+
+## Hardware
+* MAX 7210 8x8 Dot Matrix Display Module
+* LCD1602 Module
+* Makerhawk Arduino Speaker
+* UNO R3 Controller Board
+* Arduino Starter Pack Buttons, Resistors, Jumpers Wires
+
+## Wiring Diagram
+![Image](C:\Users\ididn\OneDrive\Pictures\DDR Arduino Wiring Diagram.png)
