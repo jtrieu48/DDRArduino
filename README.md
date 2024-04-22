@@ -19,7 +19,7 @@ Dance Dance Arduino is an implementation of the famous rhythm game Dance Dance R
 * Arduino Starter Pack Buttons, Resistors, Jumpers Wires
 
 ## Wiring Diagram
-<img src="https://github.com/jtrieu48/DDRArduino/assets/77050179/3e45814b-99e8-4aa2-afaf-a5d7503006ce">
+<img src="https://github.com/jtrieu48/DDRArduino/assets/77050179/3e45814b-99e8-4aa2-afaf-a5d7503006ce" device_scale=".5">
 
 
 ## Gameplay Demo
