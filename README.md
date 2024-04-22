@@ -3,7 +3,9 @@
 
 
 ## Description
-Dance Dance Arduino is an implementation of the famous rhythm game Dance Dance Revolution, where players press corresponding arrow keys to the beat of the music. All the thrills of DDR can be enjoyed through the compact set of the ELEGOO UNO Project Starter Kit, an 8x8 Matrix LED, and an Arduino Speaker. 
+An Arduino implementation of famous rhythm game Dance Dance Revolution
+
+All the thrills of DDR can be enjoyed through the compact set of the ELEGOO UNO Project Starter Kit, an 8x8 Matrix LED, and an Arduino Speaker. Players press corresponding arrow keys to the beat of the music.
 
 ## Instructions
 * Press any button to start the game
