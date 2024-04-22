@@ -1,5 +1,5 @@
 # Dance Dance Arduino
-![DDRA Logo](https://github.com/jtrieu48/DDRArduino/assets/77050179/eb901b36-f1c7-417e-a093-5b3325e8cfc7)
+![DDRA Logo](imgs/DDRA_Logo.png)
 
 
 ## Description
