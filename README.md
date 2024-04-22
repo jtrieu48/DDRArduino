@@ -1,5 +1,5 @@
 # Dance Dance Arduino
-![DDR A]([https://upload.wikimedia.org/wikipedia/en/7/71/DDR_A_Logo.png](https://imgur.com/a/HguOzSW))
+![DDR A](https://imgur.com/a/HguOzSW))
  
 
 ## Description
