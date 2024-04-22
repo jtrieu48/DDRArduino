@@ -25,6 +25,6 @@ All the thrills of DDR can be enjoyed through the compact set of the ELEGOO UNO 
 
 
 ## Gameplay Demo
-[![Thumbnail](https://imgur.com/P4yL5bN.png)](https://www.youtube.com/watch?v=oGBtcMmGAPs)
+[Dance Dance Arduino Demo](https://www.youtube.com/watch?v=oGBtcMmGAPs)
 
 
